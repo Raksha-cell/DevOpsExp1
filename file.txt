@@ -1,1 +1,6 @@
+Welcome to DevOps Laboratory
+
 Master branch version
+Feature branch version
+
+Merge conflict resolved successfully.
